@@ -1,0 +1,6 @@
+#!C:\Users\Rayel\Documents\Master Thesis\Development\haabsa++_dev\Scripts\python.exe
+import sys
+import hyperopt.mongoexp
+import logging
+logging.basicConfig(stream=sys.stderr, level=logging.INFO)
+sys.exit(hyperopt.mongoexp.main_worker())
