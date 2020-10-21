@@ -91,7 +91,7 @@ def cross_val(number_of_folds=10, compute_folds=False, multidim=False, multihead
 
 def main(_):
     learning_rates = [0.07, 0.12]
-    l2s = [0.00001, 0.00005, 0.0002, 0.001]
+    l2s = [0.00001, 0.00005, 0.0002, 0.001, 0.01]
     keep_prob = 0.5
     number_epochs = [200]
 

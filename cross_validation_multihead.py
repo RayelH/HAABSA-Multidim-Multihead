@@ -93,7 +93,7 @@ def main(_):
     learning_rates = [0.07, 0.12]
     l2s = [0.00001, 0.00005, 0.0002, 0.001, 0.01]
     keep_prob = 0.5
-    number_epochs = [400]
+    number_epochs = [200]
     head_sizes = [2, 3, 4]
 
 
