@@ -22,3 +22,7 @@ Download pre-trained word emebddings:
 - GloVe: https://nlp.stanford.edu/projects/glove/
 - Word2vec: https://code.google.com/archive/p/word2vec/
 - FastText: https://fasttext.cc/docs/en/english-vectors.html
+
+## References
+- Trusca, M. M., Wassenberg, D., Frasincar, F., and Dekker, R. (2020).  A hybrid approachfor aspect-based sentiment analysis using deep contextual word embeddings and hier-archical attention.  InWeb Engineering - 20th International Conference,  ICWE 2020,Helsinki,  Finland,  June  9-12,  2020,  Proceedings,  volume  12128  ofLecture  Notes  inComputer Science, pages 365–380. Springer.
+- Wallaart, O. and Frasincar, F. (2019).  A hybrid approach for aspect-based sentiment anal-ysis using a lexicalized domain ontology and attentional neural models.  In16th  Ex-tended  Semantic  Web  Conference  (ESWC  2019), volume 11503 ofLNCS, pages 363–378. Springer.
