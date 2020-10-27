@@ -3,7 +3,7 @@
 Source code for the master thesis: A Hybrid Approach for Aspect-Based Sentiment Analysis Using Multi-dimensional and Multi-head Attention
 
 ## How to run the code
-- Install all dependencies and libraries, as explained in the base HAABSA model. The description for this can be found at [https://github.com/ofwallaart/HAABSA](https://github.com/ofwallaart/HAABSA).
+- Install all dependencies and libraries, as explained in the base HAABSA (Wallaart and Frasincar (2019)) model. The description for this can be found at [https://github.com/ofwallaart/HAABSA](https://github.com/ofwallaart/HAABSA).
 - Trusca et al. (2020) add BERT context dependent word embeddings. Procedure for producing these word embeddings can be found at https://github.com/mtrusca/HAABSA_PLUS_PLUS.
 - Structure of the code is mostly the same. I have added:
 	- **cross_validation_{model}.py** - this is the code that runs the cross validation for the models. The hyperparamaeters you want to use for grid search can be specified in this file.
